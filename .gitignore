@@ -2,8 +2,19 @@ ckpt/*
 summary/*
 data/*
 *.pyc
-.ipynb_checkpoints/*
+**/.ipynb_checkpoints/
 mnist_png/*
 *.tfrecord
+**/generated_img/
+**/generated_img2/
+**/generated_img_gp/
+**/MNIST_data/
+**/ckpt/
+**/ckpt*/
+**/summary/
+**/data/
+events*
+**/facades_train/
+**/facades_test/
 
 
